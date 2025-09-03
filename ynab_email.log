@@ -1,0 +1,169 @@
+2025-09-02 12:52:28,809 - INFO - Starting YNAB daily email report...
+2025-09-02 12:52:30,795 - INFO - Fetching categories from YNAB...
+2025-09-02 12:52:31,107 - INFO - Found 66 categories
+2025-09-02 12:53:31,382 - ERROR - Error sending email: Connection unexpectedly closed
+2025-09-02 12:53:31,382 - ERROR - Error in main execution: Connection unexpectedly closed
+2025-09-02 12:55:10,804 - INFO - Starting YNAB daily email report...
+2025-09-02 12:55:11,839 - INFO - Fetching categories from YNAB...
+2025-09-02 12:55:12,148 - INFO - Found 66 categories
+2025-09-02 12:55:12,150 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_125512.html
+2025-09-02 12:56:12,432 - ERROR - Error sending email: Connection unexpectedly closed
+2025-09-02 12:56:12,432 - ERROR - Error in main execution: Connection unexpectedly closed
+2025-09-02 12:58:08,600 - INFO - Starting YNAB daily email report...
+2025-09-02 12:58:09,668 - INFO - Fetching categories from YNAB...
+2025-09-02 12:58:09,971 - INFO - Filtered categories to include only: Quality of Life, Medical, Essential, Non-Essential, Wishful Savings
+2025-09-02 12:58:09,972 - INFO - Found 43 categories
+2025-09-02 12:58:09,973 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_125809.html
+2025-09-02 12:58:47,416 - INFO - Starting YNAB daily email report...
+2025-09-02 12:58:51,171 - INFO - Fetching categories from YNAB...
+2025-09-02 12:58:51,486 - INFO - Filtered categories to include only: Non-Essential, Quality of Life, Wishful Savings, Essential, Medical
+2025-09-02 12:58:51,486 - INFO - Found 43 categories
+2025-09-02 12:58:51,488 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_125851.html
+2025-09-02 12:59:10,255 - ERROR - Error sending email: Connection unexpectedly closed
+2025-09-02 12:59:10,255 - ERROR - Error in main execution: Connection unexpectedly closed
+2025-09-02 13:01:14,072 - INFO - Starting YNAB daily email report...
+2025-09-02 13:01:15,081 - INFO - Fetching categories from YNAB...
+2025-09-02 13:01:15,381 - INFO - Filtered categories to include only: Non-Essential, Quality of Life, Essential, Medical, Wishful Savings
+2025-09-02 13:01:15,382 - INFO - Found 43 categories
+2025-09-02 13:01:15,383 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_130115.html
+2025-09-02 13:02:04,814 - ERROR - Error sending email: Connection unexpectedly closed
+2025-09-02 13:02:04,814 - ERROR - Error in main execution: Connection unexpectedly closed
+2025-09-02 13:02:15,629 - ERROR - Error sending email: Connection unexpectedly closed
+2025-09-02 13:02:15,629 - ERROR - Error in main execution: Connection unexpectedly closed
+2025-09-02 13:06:45,925 - INFO - Starting YNAB daily email report...
+2025-09-02 13:06:46,960 - INFO - Fetching categories from YNAB...
+2025-09-02 13:06:47,254 - INFO - Filtered categories to include only: Essential, Medical, Quality of Life, Wishful Savings, Non-Essential
+2025-09-02 13:06:47,254 - INFO - Found 43 categories
+2025-09-02 13:06:47,255 - INFO - HTML report saved to: C:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_130647.html
+2025-09-02 13:07:56,094 - INFO - Running SMTP connection test...
+2025-09-02 13:07:56,094 - INFO - Testing SMTP connection to smtp.migadu.com:465
+2025-09-02 13:08:56,373 - ERROR - SMTP Error: Connection unexpectedly closed
+2025-09-02 13:09:09,508 - INFO - Running SMTP connection test...
+2025-09-02 13:09:09,509 - INFO - Testing SMTP connection to smtp.migadu.com:587
+2025-09-02 13:09:11,903 - INFO - SMTP connection established
+2025-09-02 13:09:12,308 - INFO - STARTTLS successful
+2025-09-02 13:09:12,700 - INFO - SMTP authentication successful
+2025-09-02 13:09:12,838 - INFO - SMTP test completed successfully
+2025-09-02 13:09:25,863 - INFO - Starting YNAB daily email report...
+2025-09-02 13:09:26,890 - INFO - Fetching categories from YNAB...
+2025-09-02 13:09:27,303 - INFO - Filtered categories to include only: Quality of Life, Essential, Medical, Non-Essential, Wishful Savings
+2025-09-02 13:09:27,303 - INFO - Found 43 categories
+2025-09-02 13:09:27,304 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_130927.html
+2025-09-02 13:09:27,304 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:09:30,480 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:09:30,627 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_130927.html
+2025-09-02 13:15:02,217 - INFO - Starting YNAB daily email report...
+2025-09-02 13:15:02,217 - ERROR - Error in main execution: 'YNABEmailer' object has no attribute 'get_budget_name'
+2025-09-02 13:15:12,618 - INFO - Starting YNAB daily email report...
+2025-09-02 13:15:12,618 - ERROR - Error in main execution: 'YNABEmailer' object has no attribute 'get_budget_name'
+2025-09-02 13:15:54,127 - INFO - Starting YNAB daily email report...
+2025-09-02 13:15:55,537 - INFO - Fetching categories from YNAB...
+2025-09-02 13:15:55,941 - INFO - Filtered categories to include only: Non-Essential, Quality of Life, Medical, Wishful Savings, Essential
+2025-09-02 13:15:55,941 - INFO - Found 43 categories
+2025-09-02 13:15:55,942 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_131555.html
+2025-09-02 13:15:55,943 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:16:00,271 - ERROR - Unexpected email error: (553, b'5.7.1 <YNAB@therads.com>: Sender address rejected: not owned by user patrad@therads.com', 'YNAB@therads.com')
+2025-09-02 13:16:00,271 - ERROR - Error in send_email method: (553, b'5.7.1 <YNAB@therads.com>: Sender address rejected: not owned by user patrad@therads.com', 'YNAB@therads.com')
+2025-09-02 13:16:00,272 - ERROR - Error in main execution: (553, b'5.7.1 <YNAB@therads.com>: Sender address rejected: not owned by user patrad@therads.com', 'YNAB@therads.com')
+2025-09-02 13:18:59,944 - INFO - Starting YNAB daily email report...
+2025-09-02 13:19:01,301 - INFO - Fetching categories from YNAB...
+2025-09-02 13:19:01,629 - INFO - Filtered categories to include only: Medical, Wishful Savings, Essential, Non-Essential, Quality of Life
+2025-09-02 13:19:01,629 - INFO - Found 43 categories
+2025-09-02 13:19:01,631 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_131901.html
+2025-09-02 13:19:01,631 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:19:05,880 - ERROR - Unexpected email error: (553, b'5.7.1 <YNAB@therads.com>: Sender address rejected: not owned by user patrad@therads.com', 'YNAB@therads.com')
+2025-09-02 13:19:05,880 - ERROR - Error in send_email method: (553, b'5.7.1 <YNAB@therads.com>: Sender address rejected: not owned by user patrad@therads.com', 'YNAB@therads.com')
+2025-09-02 13:19:05,880 - ERROR - Error in main execution: (553, b'5.7.1 <YNAB@therads.com>: Sender address rejected: not owned by user patrad@therads.com', 'YNAB@therads.com')
+2025-09-02 13:32:50,046 - INFO - Starting YNAB daily email report...
+2025-09-02 13:32:52,074 - INFO - Fetching categories from YNAB...
+2025-09-02 13:32:52,412 - INFO - Filtered categories to include only: Quality of Life, Wishful Savings, Essential, Medical, Non-Essential
+2025-09-02 13:32:52,412 - INFO - Found 43 categories
+2025-09-02 13:32:52,413 - WARNING - Could not fetch recent transactions: type object 'datetime.datetime' has no attribute 'timedelta'
+2025-09-02 13:32:52,414 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_133252.html
+2025-09-02 13:32:52,414 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:32:57,276 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:32:57,529 - INFO - Saved last run timestamp: 2025-09-02T13:32:57.529365
+2025-09-02 13:32:57,530 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_133252.html
+2025-09-02 13:37:59,533 - INFO - Starting YNAB daily email report...
+2025-09-02 13:38:01,088 - INFO - Fetching categories from YNAB...
+2025-09-02 13:38:01,439 - INFO - Filtered categories to include only: Medical, Essential, Non-Essential, Quality of Life, Wishful Savings
+2025-09-02 13:38:01,439 - INFO - Found 43 categories
+2025-09-02 13:38:01,440 - WARNING - Could not fetch recent transactions: type object 'datetime.datetime' has no attribute 'timedelta'
+2025-09-02 13:38:01,441 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_133801.html
+2025-09-02 13:38:01,441 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:38:04,674 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:38:04,802 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_133801.html
+2025-09-02 13:41:19,595 - INFO - Starting YNAB daily email report...
+2025-09-02 13:41:21,498 - INFO - Fetching categories from YNAB...
+2025-09-02 13:41:21,800 - INFO - Filtered categories to include only: Essential, Non-Essential, Quality of Life, Medical, Wishful Savings
+2025-09-02 13:41:21,801 - INFO - Found 43 categories
+2025-09-02 13:41:21,801 - WARNING - Could not fetch recent transactions: type object 'datetime.datetime' has no attribute 'timedelta'
+2025-09-02 13:41:21,802 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_134121.html
+2025-09-02 13:41:21,802 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:41:26,536 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:41:26,656 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_134121.html
+2025-09-02 13:41:41,084 - INFO - Starting YNAB daily email report...
+2025-09-02 13:41:42,670 - INFO - Fetching categories from YNAB...
+2025-09-02 13:41:43,052 - INFO - Filtered categories to include only: Quality of Life, Essential, Wishful Savings, Non-Essential, Medical
+2025-09-02 13:41:43,053 - INFO - Found 43 categories
+2025-09-02 13:41:43,053 - WARNING - Could not fetch recent transactions: type object 'datetime.datetime' has no attribute 'timedelta'
+2025-09-02 13:41:43,054 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_134143.html
+2025-09-02 13:41:43,055 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:41:46,588 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:41:46,706 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_134143.html
+2025-09-02 13:42:36,229 - INFO - Starting YNAB daily email report...
+2025-09-02 13:42:37,868 - INFO - Fetching categories from YNAB...
+2025-09-02 13:42:38,292 - INFO - Filtered categories to include only: Quality of Life, Medical, Non-Essential, Essential, Wishful Savings
+2025-09-02 13:42:38,292 - INFO - Found 43 categories
+2025-09-02 13:42:38,293 - INFO - First run - fetching transactions from last 24 hours
+2025-09-02 13:42:38,502 - INFO - Saved server knowledge: 43805
+2025-09-02 13:42:38,503 - INFO - Found 20 recent approved transactions using delta request
+2025-09-02 13:42:38,504 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_134238.html
+2025-09-02 13:42:38,504 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:42:41,526 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:42:41,706 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_134238.html
+2025-09-02 13:50:54,977 - INFO - Starting YNAB daily email report...
+2025-09-02 13:50:56,595 - INFO - Fetching categories from YNAB...
+2025-09-02 13:50:56,909 - INFO - Filtered categories to include only: Essential, Medical, Non-Essential, Quality of Life, Wishful Savings
+2025-09-02 13:50:56,909 - INFO - Found 43 categories
+2025-09-02 13:50:56,917 - INFO - Using delta request with server knowledge: 43805
+2025-09-02 13:50:57,108 - INFO - Saved server knowledge: 43805
+2025-09-02 13:50:57,109 - INFO - Found 0 recent approved transactions in tracked categories
+2025-09-02 13:50:57,110 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_135057.html
+2025-09-02 13:50:57,111 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 13:51:01,018 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 13:51:01,148 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_135057.html
+2025-09-02 14:01:54,071 - INFO - Starting YNAB daily email report...
+2025-09-02 14:01:55,863 - INFO - Fetching categories from YNAB...
+2025-09-02 14:01:56,195 - INFO - Filtered categories to include only: Non-Essential, Essential, Quality of Life, Medical, Wishful Savings
+2025-09-02 14:01:56,196 - INFO - Found 43 categories
+2025-09-02 14:01:56,196 - INFO - Using delta request with server knowledge: 43805
+2025-09-02 14:01:56,421 - INFO - Saved server knowledge: 43805
+2025-09-02 14:01:56,421 - INFO - Found 0 recent approved transactions in tracked categories
+2025-09-02 14:01:56,422 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_140156.html
+2025-09-02 14:01:56,423 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 14:02:00,850 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 14:02:01,011 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_140156.html
+2025-09-02 14:04:07,599 - INFO - Starting YNAB daily email report...
+2025-09-02 14:04:09,187 - INFO - Fetching categories from YNAB...
+2025-09-02 14:04:09,492 - INFO - Filtered categories to include only: Quality of Life, Medical, Non-Essential, Wishful Savings, Essential
+2025-09-02 14:04:09,493 - INFO - Found 43 categories
+2025-09-02 14:04:09,500 - INFO - Using delta request with server knowledge: 43805
+2025-09-02 14:04:09,715 - INFO - Saved server knowledge: 43816
+2025-09-02 14:04:09,715 - INFO - Found 1 recent approved transactions in tracked categories
+2025-09-02 14:04:09,716 - INFO - HTML report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_140409.html
+2025-09-02 14:04:09,717 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 14:04:13,924 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 14:04:14,058 - INFO - YNAB daily email report completed successfully! Report saved to: c:\Users\Patrick\source\repos\PYnab\ynab_report_20250902_140409.html
+2025-09-02 14:10:10,207 - INFO - Starting YNAB daily email report...
+2025-09-02 14:10:12,101 - INFO - Fetching categories from YNAB...
+2025-09-02 14:10:12,444 - INFO - Filtered categories to include only: Wishful Savings, Essential, Medical, Non-Essential, Quality of Life
+2025-09-02 14:10:12,445 - INFO - Found 43 categories
+2025-09-02 14:10:12,446 - INFO - Using delta request with server knowledge: 43816
+2025-09-02 14:10:12,669 - INFO - Saved server knowledge: 43816
+2025-09-02 14:10:12,670 - INFO - Found 0 recent approved transactions in tracked categories
+2025-09-02 14:10:12,671 - INFO - HTML report saved to: c:/users/Patrick/YNAB Reports\ynab_report_20250902_141012.html
+2025-09-02 14:10:12,672 - INFO - No old report files to clean up
+2025-09-02 14:10:12,672 - INFO - Attempting to send email via smtp.migadu.com:587
+2025-09-02 14:10:16,177 - INFO - Email sent successfully to patrad1@gmail.com
+2025-09-02 14:10:16,304 - INFO - YNAB daily email report completed successfully! Report saved to: c:/users/Patrick/YNAB Reports\ynab_report_20250902_141012.html
